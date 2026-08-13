@@ -1,0 +1,6 @@
+{
+  "name": "Trading Analyzer",
+  "description": "Professional Market Analysis & Algorithmic Trading Signal Generator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

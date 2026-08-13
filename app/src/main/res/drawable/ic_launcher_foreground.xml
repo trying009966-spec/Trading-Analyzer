@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Green Candle 1 -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M34,38h8v28h-8z" />
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="2"
+        android:pathData="M38,28v48" />
+
+    <!-- Red Candle 2 -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M50,48h8v20h-8z" />
+    <path
+        android:strokeColor="#EF4444"
+        android:strokeWidth="2"
+        android:pathData="M54,42v32" />
+
+    <!-- Green Candle 3 -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M66,32h8v30h-8z" />
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="2"
+        android:pathData="M70,24v44" />
+
+    <!-- Trend line -->
+    <path
+        android:strokeColor="#3B82F6"
+        android:strokeWidth="3"
+        android:pathData="M24,72 L42,52 L54,58 L84,30" />
+</vector>
